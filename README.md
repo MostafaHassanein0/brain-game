@@ -1,4 +1,4 @@
-# THE-MATH-GAME
+# THE-BRAIN-GAME
 
  It is a simple mathematics game to test how well we are at arithmetic.
 ---
