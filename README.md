@@ -8,8 +8,8 @@ It was developed by me and my teammate for "the Upper Egypt Cities Competition f
 By Mostafa Gamal & Mostafa Gamal                                                
                                                                                              
  programming tools that used:            
--HTML(HyperText Markup Language)                          
--CSS(Cascading Style Sheets)                            
+-HTML (HyperText Markup Language)                          
+-CSS (Cascading Style Sheets)                            
 -JavaScript (Programming language)
 
 
