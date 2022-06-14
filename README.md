@@ -2,7 +2,7 @@
 
  It is a simple mathematics game that help the young students to practice very well in arithmetic operations In the form of an entertaining game and test how well we are at arithmetic.
 ---                   
-Date: 15.09.2021                                                              
+Date: 15.12.2021                                                              
 Round : Second Round                                              
 we ranked 2nd palce overall +60 team                                                                                                               
 It was developed by me and my teammate for "the Upper Egypt Cities Competition for Educational Programming Projects".          
