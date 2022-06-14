@@ -6,7 +6,7 @@ Date: 15.09.2021
 Round : First Round
                                                                      
 It was developed by me and my teammate for "the Upper Egypt Cities Competition for Educational Programming Projects".          
-By Mostafa Gamal                                                 
+By Mostafa Gamal & Mostafa Gamal                                                
                                                                                              
  programming tools that used:            
 -HTML(HyperText Markup Language)                          
