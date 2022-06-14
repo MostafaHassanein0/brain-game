@@ -1,4 +1,4 @@
-# THE-Math-GAME
+# THE-MATH-GAME
 
  It is a simple mathematics game to test how well we are at arithmetic.
 ---
