@@ -5,7 +5,7 @@
 team member:                  
 1- Mahmoud Gamal                   
 2- Mostafa Gamal                                           
-It was developed by me and my teammate for "the Upper Egypt Cities Competition for Educational Programming Projects", and we ranked 1st out of +90 team from diffirent cities.
+It was developed by me and my teammate for "the Upper Egypt Cities Competition for Educational Programming Projects", and we ranked 1st out of +90 team from different cities.
 
 
 #Try it!                                   
