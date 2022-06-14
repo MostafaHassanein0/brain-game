@@ -4,7 +4,7 @@
 ---                   
 Date: 15.12.2021                                                              
 Round : Second Round                                              
-we ranked 2nd palce overall +60 team                                                                                                               
+we ranked 2nd palce overall +60 team from different cities.                                                                                                              
 It was developed by me and my teammate for "the Upper Egypt Cities Competition for Educational Programming Projects".          
 By Mostafa Gamal & Mostafa Gamal                                                
                                                                                              
