@@ -1,3 +1,4 @@
+// Mahmoud Gamal & Mostafa Gamal
 var playing = false;
 var score = 0;
 var action;
