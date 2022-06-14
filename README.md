@@ -1,7 +1,8 @@
 # THE-Brain-GAME
 
- 👉🏻 It is a simple multiplication game to test how well we are at arithmetic.
+ It is a simple mathematics game to test how well we are at arithmetic, team member: Mahmoud Gamal & Mostafa Gamal.
 ---
+It was developed by me and my teammate for "the Upper Egypt Cities Competition for Educational Programming Projects"
 
 ![image](https://user-images.githubusercontent.com/54937357/154539531-9b586eed-c2d0-44f4-8e8d-a0c00fd66b95.png)
 
