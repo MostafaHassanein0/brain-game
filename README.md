@@ -1,6 +1,6 @@
 # THE-BRAIN-GAME
 
- It is a simple mathematics game that help the young students to practice very well in arithmetic operations In the form of an entertaining game and test how well we are at arithmetic.
+ It is a simple mathematics game that help the young students to practice very well in arithmetic operations In the form of an entertaining game and test how well we are at arithmetic and the end of the game it show your score.
 ---                   
 Date: 15.12.2021                                                              
 Round : Second Round                                              
