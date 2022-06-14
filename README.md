@@ -1,6 +1,6 @@
 # THE-BRAIN-GAME
 
- It is a simple mathematics game to test how well we are at arithmetic.
+ It is a simple mathematics game that help the young students to practice very well in arithmetic operations In the form of an entertaining game and test how well we are at arithmetic.
 ---
 we ranked 1st out of +90 team from different cities.                                          
 team member:                  
